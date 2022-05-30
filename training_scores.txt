@@ -1,0 +1,12 @@
+base:
+fold 0: 0.8651
+
+
+base + fixed_typos:
+fold 0: 0.8683
+
+base + -wrong lines + fixed_typos:
+fold 0: 0.8696
+
+roberta:
+fold 0: 0.8604

@@ -1,0 +1,196 @@
+hpi: History of Present Illness
+pmhx: Past Medical History
+pmh: Past Medical History
+rx: Heading of a prescription
+fhx: Family History
+shx: Social History
+sh: Social History
+phi: Protected Health Information
+hx: History
+psh: Paroxysmal Sympathetic Hyperactivity
+ros: Review of Systems
+sh: Self-harm
+fh: Familial hypercholesterolemia
+med: medications
+pshx: Past Surgical History
+psh: Past Surgical History
+fmhx: Family Medical History
+fmh: Family Medical History
+fh: Family History
+etoh: Alcohol
+#:	fracture
+A&E:	accident and emergency
+ac:	before meals
+AM:	morning
+AF:	atrial fibrillation
+AMHP:	approved mental health professional
+APTT:	activated partial thromboplastin time
+ASQ:	ages and stages questionnaire
+bds:	2 times a day
+bid: twice a day
+BMI:	body mass index
+BNO:	bowels not open
+BO:	bowels open
+BP:	blood pressure
+cc:	chief complaint
+CMHN:	community mental health nurse
+CPN:	community psychiatric nurse
+CSF:	cerebrospinal fluid
+CSU:	catheter stream urine sample
+CT:	computerised tomography
+CVP:	central venous pressure
+CXR:	chest X-ray
+DNACPR:	do not attempt cardiopulmonary resuscitation
+DNAR:	do not attempt resuscitation
+DNR:	do not resuscitate
+Dr:	doctor
+DVT:	deep vein thrombosis
+Dx:	diagnosis
+ECG:	electrocardiogram
+ED:	emergency department
+EEG:	electroencephalogram
+EMU:	early morning urine sample
+ESR:	erythrocyte sedimentation rate
+EUA:	examination under anaesthetic
+FBC:	full blood count
+GA:	general anaesthetic
+h/o:	history of
+Hb:	haemoglobin
+HCA:	healthcare assistant
+HCSW:	healthcare support worker
+HDL:	high-density lipoprotein
+HRT:	hormone replacement therapy
+Ht:	height
+Hx:	history
+IM:	injection into a muscle
+IV:	injection directly to a vein
+INR:	international normalised ratio
+IVI:	intravenous infusion
+IVP:	intravenous pyelogram
+Ix:	investigations
+LA:	local anaesthetic
+LDL:	low-density lipoprotein
+LFT:	liver function test
+LMP:	last menstrual period
+M/R:	modified release
+MRI:	magnetic resonance imaging
+MRSA:	methicillin resistant staphylococcus aureus
+MSU:	mid-stream urine sample
+npo:	nothing by mouth
+NAD:	nothing abnormal discovered
+NAI:	non-accidental injury
+NBM:	nil by mouth
+NG:	nasogastric
+nocte:	every night
+NoF:	neck of femur
+NSAID:	non-steroidal anti-inflammatory drug
+OD:	once a day
+o/e:	on examination
+OT:	occupational therapist
+pm:	afternoon or evening
+po:	orally
+pr:	rectally
+prn:	as needed
+p/c:	presenting complaint
+physio:	physiotherapist
+POP:	plaster of paris
+PTT:	partial thromboplastin time
+PU:	passed urine
+q1d:	every day
+q1h:	every hour
+q2h:	every 2 hours
+q4h:	every 4 hours
+q6h:	every 6 hours
+q8h:	every 8 hours
+qd:	every day
+qds:	4 times a day
+qh:	every hour, hourly
+qid:	4 times a day
+qod:	every other day
+qs:	a sufficient quantity
+RN:	registered nurse
+RNLD:	learning disability nurse
+ROSC:	return of spontaneous circulation
+RTA:	road traffic accident
+Rx:	treatment
+SC:	injection under the skin
+S/R:	sustained release
+SLT:	speech and language therapist
+SpR:	specialist registrar
+stat:	immediately
+STEMI:	ST-elevation myocardial infarction
+tds:	3 times a day
+tid:	3 times a day
+TCI:	to come in
+TFT:	thyroid function test
+TPN:	total parenteral nutrition
+TPR:	temperature, pulse and respiration
+TTA:	to take away
+TTO:	to take out
+U&E:	urea and electrolytes
+ud:	as directed
+UCC:	urgent care centre
+UTI:	urinary tract infection
+VLDL:	very-low density lipoprotein
+VTE:	venous thromboembolism
+Wt:	weight
+ext: extremities
+gi: gastrointestinal
+gu: genitourinary
+heent: head, eyes, ears, nose, and throat
+hiv: human immunodeficience virus
+hrt: hormone replacement therapy
+htn: hypertension
+jvd: jugular venous distention
+l: left
+lmp: last menstrual period
+lp: lumbar puncture
+m: male
+meds: medications
+mi: myocardial enfarction
+mri: magnetic resonance imaging
+mva: motor vehicle accident
+neuro: neurologic
+niddm: non insulin-dependent diabetes mellitus
+nka: no known allergies
+nkda: no known drug allergy
+nl: normal limits
+ap: anteroposterior
+cabg: coronary artery bypass grafing
+cbc: complete blood count
+chf: congestive heart failture
+copd: chronic obstructive pulmonary disease
+cpr: cardiopulmonary resuscitation
+cva: cerebrovascular accident
+cvp: central venous pressure
+dm: diabetes mellitus
+dtr: deep tendon reflexes
+ed: emergency department
+emt: emergence medical technician
+ent: ears, nose, and throat
+eom: extraocular muscles
+pa: posteroanterior
+perrla: pupils equal, round and reactive to light and accommodation
+pt: prothrombin time
+ptt: partial thromboplastin time
+r: right
+rbc: red blood cells
+rom: range of motion
+sob: shortness of breath
+tia: transient ischemic attack
+u/a: urinalysis
+uri: upper respiratory tract infection
+wbc: white blood cells
+wnl: withtin normal limits
+yo: year-old
+yr: year-old
+yrs: year-old
+wk: week
+wks: weeks
+ap: anteroposterior
+aids: acquired immune deficiency syndrome
+abd: abdomen
+neg: negative
+pos: positive
+w/o: without
+t: temperature

@@ -1,0 +1,101 @@
+Acute: Patient with a sudden flare-up or potentially severe issue who needs immediate care.
+Critical: Patient’s vital signs are out of the normal range and patient may be unconscious.
+Inpatient: Status of a patient who requires hospital admission.
+Observation: A temporary status that allows patients to continue receiving care for a set amount of time in the hospital while the physician determines whether admission or discharge is best.
+Outpatient: Status of a patient who is not admitted to a hospital for overnight care. This can include clinic visits, same-day surgeries, and one-day emergency room visits.
+Abrasion: A scrape that typically only affects the skin and can usually be treated at home.
+Abscess: A tender, pus-filled pocket usually due to infection.
+Acute: Signifies a condition that begins abruptly and is sometimes severe, but usually short.
+Aneurysm: A bulge in the wall of an artery that weakens the artery and can lead to rupture.
+Aortic dissection: A tear in the inner layer of the aorta.
+Bradycardia: A slowing of the heart rate—typically less than 60 beats per minute for adults.
+Benign: Usually in reference to tumors or growth, meaning not cancerous or malignant.
+Biopsy: A small sample of tissue that’s taken for testing to discover the cause or extent of a disease.
+Chronic: Signifies a recurring, persistent condition, usually more than three months.
+Contusion: A bruise typically from impact or force.
+Cyanosis: Condition resulting bluish skin, stems from lack of oxygen in the blood.
+Diagnosis: Identification of a condition, disease or disorder by evaluation of symptoms, tests and other factors.
+Thrombosis: A blood clot within a blood vessel that affects normal blood flow.
+Edema: Swelling caused by fluid accumulation.
+Embolus: A blood clot, air bubble or other obstruction blocking blood flow in the affected blood vessel.
+Fracture: Broken bone ranging from a crack to a complete break.
+Atrial fibrillation: An uncoordinated, quivering movement of the heart muscle resulting in an irregular pulse and poor blood flow.
+Hypertension: Abnormally high blood pressure.
+Hypotension: Abnormally low blood pressure.
+Ischemia: Characterized by a lack of blood flow to an organ or part of the body. Often refers to the heart-cardiac ischemia.
+Malignant: In reference to tumors or growths—indicating the presence of cancerous cells.
+Cancer: Collection of related diseases where some of the body’s cells multiply out of control spreading into surrounding tissues and interfering with normal body function.
+Normal sinus rhythm: A normal heartbeat pattern, usually is between 60 and 80 beats per minute in an adult.
+Tumor: A swelling or mass, often used in relation to cancer.
+Tension pneumothorax: A collapsed lung that occurs when air leaks into the space between the lungs and the chest wall.
+Pericardial effusion: Blood or fluid leaking into the pericardium, the sac surrounding the heart.
+Myocardial infarction: When an arterial blockage or slow blood flow deprives the heart of blood. Known more commonly as a heart attack.
+Angina: A disease in which narrowing of the arteries supplying the heart results in reduced blood flow and chest pain. Usually a symptom of coronary artery disease.
+Cerebrovascular Accident (CVA): Commonly called a stroke. Occurs when the brain is deprived of blood and oxygen by either a blockage or the rupture of a blood vessel.
+Sepsis: A serious condition caused the body’s response to severe infection. Occurs when the body’s infection-fighting response gets out of balance and can lead to severe issues like organ failure.
+Endoscope: A long flexible tube with its own special lighting and camera used to look into the body. There are many specific kinds of endoscopes.
+Foley: An indwelling catheter. A thin flexible tube inserted into the urethra to drain the bladder.
+Fluoroscope: An X-ray machine—can be used for still images or in motion, like an animation created by x-ray images.
+Stethoscope: A small instrument used for listening to a patient’s breathing and heartbeat.
+Intravenous (IV): Indicates medication or fluid given through the vein.
+Epidural: An injection of a local anesthetic to the lumbar level of the spin often used to relieve pain during labor.
+Sublingual: Meaning “below the tongue,” typically seen with medication that is administered by dissolving it under the patients’ tongue.
+Nocte: Latin for at night, typically in reference to when medication should be administered.
+Mane: Latin for in the morning, typically in reference to when medication should be administered.
+OD: When referring to medication instructions, “once daily.”
+BDS : Latin, “bis die sumendum” meaning take two times per day.
+TDS: Latin, “ter die sumendum” meaning take three times per day.
+QDS: Latin, “quarter die sumendum” meaning take 4 times per day.
+PRN: Latin, “pro re nata” or take as needed.
+PR: Latin, “per rectum” to be taken rectally.
+PO: Latin, “per orem” to be taken by mouth or orally.
+IV push: A direct, rapid injection of medication delivered intravenously.
+NS: Normal saline—a mixture of salt and water similar to what’s produced by the body.
+Champagne tap: A successful lumbar puncture done by a student with no red blood cells found. Traditionally this challenging procedure is celebrated with a bottle of champagne from a supervising doctor—in part because the fluid collected resembles the color of champagne.
+Stat: Immediately
+Thready: Refers to a weak pulse that disappears with pressure—an indicator of larger issues.
+Golden hour: Refers to the first hour after a traumatic injury or event where chances of successful treatment are highest.
+Blood culture: A test used to find any unusual bacteria or fungi in a patient’s blood.
+Blood gas: A test to show the gas-phase components of blood including oxygen, carbon dioxide, pH balance, etc.
+Blood pressure: Measure of how well the blood is circulating. Normal blood pressure measure about 120/80 for adults.
+Blood swab: A blood sample taken with a cotton-tipped stick.
+Bowel disimpaction: Manual removal of hardened fecal matter from a patient's rectum.
+Central line: Catheter placed in a large vein that allows multiple IV fluids to be given and blood to be drawn more easily.
+C-section: Shorthand for cesarean section the surgical delivery of a baby through the abdominal wall.
+Puls/ox: Pulse oximetry, a measure of oxygen saturation in blood.
+Dialysis: Procedure to filter blood for patients with kidney failure.
+Pulse: Measure of a pulsating artery.
+Intubation: Insertion of an endotracheal tube to assist patient breathing.
+Laparotomy: Any surgery involving an incision in the abdominal wall.
+Lumbar puncture: Withdrawal of cerebrospinal fluid through a hollow needle inserted into the lumbar region. Also referred to as a spinal tap.
+Sternotomy: Surgical opening of the breast bone.
+Thoracotomy: Surgery on the chest cavity.
+Tox screen: Toxicological analysis of the blood. Ordered when a drug overdose is suspected and the drugs need to be identified.
+Ultrasound: A form of diagnostic imaging that uses high-frequency sound waves.
+Venipuncture: The drawing of blood from a vein.
+ALOC: Acute Loss of Consciousness
+ASA: The abbreviation for acetylsalicylic acid, commonly known as aspirin.
+BMI: Body mass index, a measure of body fat based on height and weight.
+BP: Blood pressure.
+BLS: Basic life support includes CPR and removal of foreign body airway obstruction.
+CAT scan: Computerized axial tomography—another form of diagnostic imaging.
+CHF: Congestive heart failure.
+CPR: Cardiopulmonary resuscitation, a life-saving technique that’s also called mouth-to-mouth resuscitation.
+DNR: Do not resuscitate. A medical order indicating providers should not perform CPR or other life-saving measures on a patient.
+DOA: Dead on arrival.
+ED/ER: Emergency department or emergency room.
+EEG: Measures brain activity.
+EKG/ECG: Electrocardiogram. Records the electrical signals in the heart.
+EMS: Emergency medical services.
+HR: Heart rate, expressed as beats per minute.
+KUB: Kidney, ureter, and bladder x-ray, commonly used for diagnosing abdominal pain.
+LFT: Liver function test.
+MRI: Magnetic resonance imaging, a form of diagnostic imaging that uses a large magnet and radio waves to view organs inside of the body.
+NICU: Neonatal intensive care unit, a specialized unit for premature infants.
+NSAID: Nonsteroidal anti-inflammatory drug (ibuprofen, aspirin, naproxen).
+OR: Operating room where surgeries are performed.
+OT: Occupational therapy.
+Psych: Refers to psychiatry practice or the psychiatric ward.
+PT: Physical therapy—rehabilitative exercises used to rebuild strength and flexibility after injury.
+Rx: Shorthand for prescription, usually for medication but can also signify another treatment.
+U/A: Urinalysis–the process of testing patient urine for signs of kidney failure, dehydration, diabetes, undernourishment, or bladder, kidney infection and more.
